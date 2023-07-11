@@ -50,7 +50,7 @@ Ball model
 
 ## License
 
-SHUBHAM AND VIKASH
+TUSHAR
 
 **Free Software, Hell Yeah!**
 
