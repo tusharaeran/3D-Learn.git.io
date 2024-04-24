@@ -1,4 +1,4 @@
-# 3D-Learn [CLICK TO SEE](https://github.com/shubham00027/3D-Learn.github.io.git)
+# 3D-Learn [CLICK TO SEE](https://tusharaeran.github.io/3D-Learn.git.io/index.html)
 ## Augumented Reality APP (3D-Learn)
 
 
